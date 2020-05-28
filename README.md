@@ -13,5 +13,5 @@ The repository contains files related to the capstone project - 'MS5103 Business
   
 <br><br><br><br><br><br><br><br><br><br><br><br>
 For more info contact, <br> 
-Email: jaykarthik11@gmail.com  | LinkedIn: <a href='https://www.linkedin.com/in/jayakarthi-boovendran'>jayakarthi-boovendran</a>
+<b>Email</b>: jaykarthik11@gmail.com  | <b>LinkedIn</b>: <a href='https://www.linkedin.com/in/jayakarthi-boovendran'>jayakarthi-boovendran</a>
 

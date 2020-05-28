@@ -5,7 +5,7 @@ The repository contains files related to the capstone project - 'MS5103 Business
 
 <h1>Data Anonymization using Differential Privacy</h1>
 
-Our work is based on: <a href='https://github.com/IBM/differential-privacy-library'> IBM's Differential Privacy Library</a> 
+<b>Reference Library</b>: <a href='https://github.com/IBM/differential-privacy-library'> IBM's Differential Privacy Library</a> 
 <br>
 
 <b>Datasets Used:</b>

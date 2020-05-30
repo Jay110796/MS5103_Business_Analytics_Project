@@ -1,2 +1,0 @@
-https://www.kaggle.com/olistbr/brazilian-ecommerce/data?select=olist_sellers_dataset.csv
-https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
